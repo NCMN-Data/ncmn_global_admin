@@ -1,0 +1,20 @@
+{
+ "ADM1": {},
+ "overrides": {
+  "Harju maakond": "하리우주",
+  "Hiiu maakond": "히우주",
+  "Ida-Viru maakond": "이다비루주",
+  "Järva maakond": "얘르바주",
+  "Jõgeva maakond": "여게바주",
+  "Lääne maakond": "래네주",
+  "Lääne-Viru maakond": "래네비루주",
+  "Pärnu maakond": "패르누주",
+  "Põlva maakond": "폴바주",
+  "Rapla maakond": "라플라주",
+  "Saare maakond": "사레주",
+  "Tartu maakond": "타르투주",
+  "Valga maakond": "발가주",
+  "Viljandi maakond": "빌랸디주",
+  "Võru maakond": "버루주"
+ }
+}

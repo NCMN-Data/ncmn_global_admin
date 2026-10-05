@@ -1,0 +1,20 @@
+{
+ "ADM1": {
+  "98794003B3671241590115": "라리베르타드주",
+  "98794003B61781922911400": "산비센테주"
+ },
+ "overrides": {
+  "Departamento de Ahuachapán": "아우아차판주",
+  "Departamento de Cabañas": "카바냐스주",
+  "Departamento de Chalatenango": "찰라테낭고주",
+  "Departamento de Cuscatlán": "쿠스카틀란주",
+  "Departamento de La Paz": "라파스주",
+  "Departamento de La Unión": "라우니온주",
+  "Departamento de Morazán": "모라산주",
+  "Departamento de San Miguel": "산미겔주",
+  "Departamento de San Salvador": "산살바도르주",
+  "Departamento de Santa Ana": "산타아나주",
+  "Departamento de Sonsonate": "손소나테주",
+  "Departamento de Usulután": "우술루탄주"
+ }
+}

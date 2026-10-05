@@ -1,0 +1,13 @@
+{
+ "ADM1": {},
+ "overrides": {
+  "East": "동부 지역",
+  "Northeast": "북동부 지역",
+  "Pelagonia": "펠라고니아 지역",
+  "Polog": "폴로그 지역",
+  "Skopje": "스코페 지역",
+  "Southeast": "남동부 지역",
+  "Southwest": "남서부 지역",
+  "Vardar": "바르다르 지역"
+ }
+}

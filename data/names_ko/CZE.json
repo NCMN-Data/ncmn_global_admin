@@ -1,0 +1,19 @@
+{
+ "ADM1": {},
+ "overrides": {
+  "Hlavní město Praha": "프라하",
+  "Jihomoravský kraj": "남모라바주",
+  "Jihočeský kraj": "남보헤미아주",
+  "Karlovarský kraj": "카를로비바리주",
+  "Kraj Vysočina": "비소치나주",
+  "Královéhradecký kraj": "흐라데츠크랄로베주",
+  "Liberecký kraj": "리베레츠주",
+  "Moravskoslezský kraj": "모라바슬레스코주",
+  "Olomoucký kraj": "올로모우츠주",
+  "Pardubický kraj": "파르두비체주",
+  "Plzeňský kraj": "플젠주",
+  "Středočeský kraj": "중앙보헤미아주",
+  "Zlínský kraj": "즐린주",
+  "Ústecký kraj": "우스티주"
+ }
+}

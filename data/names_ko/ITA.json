@@ -1,0 +1,10 @@
+{
+ "ADM1": {},
+ "overrides": {
+  "Centro": "중부",
+  "Isole": "도서부",
+  "Nord-Est": "북동부",
+  "Nord-Ovest": "북서부",
+  "Sud": "남부"
+ }
+}

@@ -1,0 +1,25 @@
+{
+ "ADM1": {
+  "25490228B27950689864224": "무르시아 지방",
+  "25490228B37069901476290": "칸타브리아 지방",
+  "25490228B61325010384209": "아라곤주",
+  "25490228B81978515469630": "라리오하 지방",
+  "25490228B86140490400531": "에스트레마두라 지방",
+  "25490228B88831207743232": "안달루시아주",
+  "25490228B94236519555378": "갈리시아 지방",
+  "25490228B94630301010512": "카스티야라만차 지방"
+ },
+ "overrides": {
+  "Canarias": "카나리아 제도",
+  "Castilla y León": "카스티야이레온 지방",
+  "Cataluña/Catalunya": "카탈루냐 지방",
+  "Ciudad Autónoma de Ceuta": "세우타",
+  "Ciudad Autónoma de Melilla": "멜리야",
+  "Comunidad Foral de Navarra": "나바라 지방",
+  "Comunidad de Madrid": "마드리드 지방",
+  "Comunitat Valenciana": "발렌시아 지방",
+  "Illes Balears": "발레아레스 제도",
+  "País Vasco/Euskadi": "바스크 지방",
+  "Principado de Asturias": "아스투리아스 지방"
+ }
+}

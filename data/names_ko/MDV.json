@@ -1,0 +1,27 @@
+{
+ "ADM1": {
+  "51498476B26234721704944": "말레"
+ },
+ "overrides": {
+  "Addu": "아두시",
+  "Alif Alif": "알리프알리프 환초",
+  "Alif Dhaalu": "알리프달루 환초",
+  "Baa": "바 환초",
+  "Dhaalu": "달루 환초",
+  "Faafu": "파푸 환초",
+  "Gaafu Alif": "가푸알리프 환초",
+  "Gaafu Dhaalu": "가푸달루 환초",
+  "Gnaviyani": "냐비야니 환초",
+  "Haa Alif": "하알리프 환초",
+  "Haa Dhaalu": "하달루 환초",
+  "Kaafu": "카푸 환초",
+  "Laamu": "라무 환초",
+  "Lhaviyani": "라비야니 환초",
+  "Meemu": "미무 환초",
+  "Noonu": "누누 환초",
+  "Raa": "라 환초",
+  "Shaviyani": "샤비야니 환초",
+  "Thaa": "타 환초",
+  "Vaavu": "바부 환초"
+ }
+}

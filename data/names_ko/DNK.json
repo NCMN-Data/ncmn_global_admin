@@ -1,0 +1,10 @@
+{
+ "ADM1": {},
+ "overrides": {
+  "Hovedstaden": "호베드스타덴 지역",
+  "Midtjylland": "미트윌란 지역",
+  "Nordjylland": "노르윌란 지역",
+  "Sjælland": "셸란 지역",
+  "Syddanmark": "쉬단마르크 지역"
+ }
+}

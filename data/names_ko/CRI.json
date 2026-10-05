@@ -1,0 +1,12 @@
+{
+ "ADM1": {},
+ "overrides": {
+  "Provincia Alajuela": "알라후엘라주",
+  "Provincia Cartago": "카르타고주",
+  "Provincia Guanacaste": "과나카스테주",
+  "Provincia Heredia": "에레디아주",
+  "Provincia Limón": "리몬주",
+  "Provincia Puntarenas": "푼타레나스주",
+  "Provincia San José": "산호세주"
+ }
+}

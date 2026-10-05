@@ -1,0 +1,21 @@
+{
+ "ADM1": {},
+ "overrides": {
+  "RegiÃ³n Metropolitana de Santiago": "산티아고 수도주",
+  "RegiÃ³n de Antofagasta": "안토파가스타주",
+  "RegiÃ³n de Arica y Parinacota": "아리카이파리나코타주",
+  "RegiÃ³n de Atacama": "아타카마주",
+  "RegiÃ³n de AysÃ©n del Gral.IbaÃ±ez del Campo": "아이센주",
+  "RegiÃ³n de Coquimbo": "코킴보주",
+  "RegiÃ³n de La AraucanÃ­a": "아라우카니아주",
+  "RegiÃ³n de Los Lagos": "로스라고스주",
+  "RegiÃ³n de Los RÃ­os": "로스리오스주",
+  "RegiÃ³n de Magallanes y AntÃ¡rtica Chilena": "마가야네스이데라안타르티카칠레나주",
+  "RegiÃ³n de TarapacÃ¡": "타라파카주",
+  "RegiÃ³n de ValparaÃ­so": "발파라이소주",
+  "RegiÃ³n de Ãuble": "뉴블레주",
+  "RegiÃ³n del BÃ­o-BÃ­o": "비오비오주",
+  "RegiÃ³n del Libertador Bernardo O'Higgins": "오이긴스주",
+  "RegiÃ³n del Maule": "마울레주"
+ }
+}
